@@ -231,21 +231,21 @@ body {
   display: flex;
   gap: 15px;
   align-items: center;
-  padding: 10px;
+  padding: 15px;
   border-bottom: 0.5px solid #255424;
   box-shadow: 0px 1px 5px -1px rgba(16, 255, 0, 0.5) inset;
 }
 .menu-mobile__image {
-  width: 15px;
+  width: 25px;
 }
 .menu-mobile__link {
   font-family: "GothamPro-Bold", sans-serif;
   text-transform: uppercase;
-  font-size: 10px;
+  font-size: 15px;
 }
 .menu-mobile__popup {
   background-color: #21A038;
-  font-size: 8px;
+  font-size: 10px;
   width: 75%;
 }
 
